@@ -119,5 +119,7 @@ When building for a particular board, board specific info resides in:
     * BOARD_EXT_DRIVERS: contains the names of the drivers to compile in the VM and it is converted in a source code list by common.mk. A driver has the same case sensitive name of the directory it resides in under common/drivers
 
 
+License
+-------
 
-
+The Viper VM is released under GPL3, see the attached files for details
