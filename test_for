@@ -1,0 +1,1 @@
+make BOARD=$1 TESTFILE=$2 $3
